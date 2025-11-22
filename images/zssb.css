@@ -1,0 +1,123 @@
+a:link			{ text-decoration: none;} 
+a:visited		{ text-decoration: none; color: 000033 }
+a:active		{ text-decoration: none;}
+a:hover			{ text-decoration: underline; color: 999999;}
+input			{ font-size: 11px; font-family: Verdana; color: #000000;}
+
+
+.bodyBG	 		{ background : url(bg.png);}
+.lineBG 		{ background-color: #CED7E7}
+.tableBG 		{ background-color: #E7ECF5}
+.leftBG 		{ background-color: #E7ECF5;}
+.rightBG 		{ background-color: #E7ECF5;}
+.actionBG 		{ background-color: #E7ECF5;}
+.navBG			{ background-image : url(nav.gif);}
+.navText		{ font-size: 12px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: FFFFFF}
+.menuBG			{ background-image : url(titlebg.gif);}
+.menuText		{ font-size: 11px; font-family: Verdana; color: yellow}
+.menuBold		{ font-size: 11px;  font-family: Verdana; color: #000000; font-weight: bold; }
+.MenuDisable	{ font-size: 11px; font-family: Verdana; color: #999999; background-color: #336699}
+.textFont		{ font-size: 11px; font-family: Verdana;  color: #000033;}
+.textFontBold	{ font-size: 11px; font-family: Verdana;  color: #000033; font-weight:bold;}
+.dateFont		{ font-size: 11px; font-family: Verdana;  color: #000000;}
+.smallTextFont		{ font-size: 11px; font-family: Verdana;  color: #000033;}
+.smallTextFontBold	{ font-size: 11px; font-family: Verdana;  color: #000033; font-weight:bold;}
+
+.butLogin		{ border: none; font-size:9pt; height: 24px; width: 84px; background-image : url(but.gif);}
+.butLogin1		{ border: none; font-size:9pt; height: 24px; width: 120px; background-image : url(but2.gif);}
+.butSokong		{ border: none; font-size:pt; font-weight: bold; height: 20px; width: 70px; background-image : url(but1.gif);}
+.but			{ font-size: 10px; font-family: Verdana;  color: #000033;  height:21px; width:90px; }
+.but1			{ font-size: 10px; font-family: Verdana;  color: #000033;  height:21px; width:90px; font-weight:bold;}
+.inputDisable	{ font-size: 11px; font-family: Verdana; color: #000000; font-weight : bold; background-color: #F7F7F7}
+.welcome		{ font-size: 30pt; font-family: "Bernard MT Condensed"; color: #333333; }
+.welcome1 		{ height:25px; background: #E8FCF0; font-size: 11px; line-height: 25px; padding: 0px 10px 0px 10px; color: #3A3A3A; border: 1px #DCF0E4 solid;
+				  font-weight: bold;}
+				  
+.dashboard		{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: bold; background : #FFDAB9; }
+.dashboard1		{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: normal; background : #BCCEFA; }
+.dashboard2		{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: normal; background : #FBED9B; }
+.dashboard3		{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: normal; background : #E9F4F8; }
+
+.Header			{ font-size: 11px; font-family: Verdana; color: White; background-color: transparent; font-weight: normal; background : #A52A2A; }
+.Header1		{ font-size: 9pt; font-family: Calibri; color: #000000; font-weight: bold; }
+.HeaderS		{ font-size: 9pt;  font-family: Calibri; color: #FFFFFF; background-color: #00000F; font-weight: bold;}
+.Label 			{ font-size: 11px; font-family: Verdana; color: Black; background-color: #ADD8E6; font-weight: normal; }
+.LabelH			{ font-size: 11px; font-family: Verdana; color: #000033; background-color: #CED7E7; font-weight: bold;}
+.Data 			{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: normal; background : #D5EAFF; }
+.DataS 			{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: normal; background : #D5EAFF; }
+.Data1			{ font-size: 11px; font-family: Verdana; color: Black; background-color: transparent; font-weight: normal; background : #E9F4F8; }
+.contentH		{ font-size: 9pt; font-family: Calibri; color: #FFFFFF; font-weight: bold;}
+.contentD		{ font-size: 11px; font-family: Verdana; color: #333333; font-weight: bold;}
+.scontentD		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #666666;}
+.Section		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033; background-color: #CCCC99; font-weight: bold;}
+.SectionH		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033; font-weight: bold;}
+
+.indat			{
+	font-size: 12px;
+	font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif;
+	color: #000033;
+	background-color: Lime;
+	font-weight: bold;
+}
+
+.RbodyBG 		{ background-color: #FFFFFF}
+.RlineBG 		{ background-color: #999999}
+.RTitle			{ font-size: 12px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033; font-weight: bold;}
+.RHeader		{ font-size: 14px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; background-color: #336699; font-weight: bold;}
+.RLabel			{ font-size: 12px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033; background-color: #C0C0C0; font-weight: bold;}
+.RData 			{
+	font-size: 10px;
+	font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif;
+	color: #000033;
+	background-color: #FFFFFF;
+}
+.RDataBold		{ font-size: 12px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033;  background-color:#FFFFFF; font-weight: bold}
+.RTextFont		{ font-size: 12px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033;}
+.Rfooter		{ font-size: 12px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #999999;}
+
+.ErrData 		{ font-size: 10.5px; font-family: Verdana; color: #000000; background-color: #FF0000}
+.redText 		{ font-size: 10.5px; font-family: Verdana; color: #FF0000;}
+.blurText 		{ font-size: 10.5px; font-family: Verdana; color: #999999;}
+.blueText 		{ font-size: 10.5px; font-family: Verdana; color: #0000CC}
+.blackText 		{ font-size: 10.5px; font-family: Verdana; color: #000033}
+.yellowText 	{ font-size: 10.5px; font-family: Verdana; color: #FFCC00}
+.whiteText 		{ font-size: 10.5px; font-family: Verdana; color: #FFFFFF}
+.greenText 		{ font-size: 10.5px; font-family: Verdana; color: #009900}
+.navyText   	{ font-size: 10.5px; font-family: Verdana; color: #000080}
+.maroonText 	{ font-size: 10.5px; font-family: Verdana; color: #800000; font-weight : bold;}
+.footer			{ font-size: 10.5px; font-family: Verdana; color: #000000; background-color: transparent; font-weight: normal; background : #EDEDED;}
+
+.listHeader		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; background-color: #003366}				
+.listDetail		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif;}
+
+.rptHeader		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033; font-weight: bold;}
+.rptLabel 		{ font-size: 11px; font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif; color: #000033; background-color: #C0C0C0; font-weight: bold;}
+
+#foldheader		{cursor:pointer;cursor:hand ; list-style-image:url(folder.gif)}
+#foldlist		{list-style-image:url(tri.gif)}
+#docopen		{list-style-image:url(dc.gif)}
+#testopen		{list-style-image:url(test.gif)}
+#fileopen		{list-style-image:url(newdoc.gif)}
+#userlist		{list-style-image:url(user.gif)}
+#firstnode		{list-style-image:url(firstnode.gif)}
+#lastnode		{list-style-image:url(lastnode.gif)}
+#node			{list-style-image:url(node.gif)}
+#vertical		{list-style-image:url(vertical.gif)}
+#horizontal		{list-style-image:url(horizontal.gif)}
+#print			{list-style-image:url(printer.gif)}
+#budget			{list-style-image:url(budget.gif)}
+#ap				{list-style-image:url(ap.gif)}
+#po				{list-style-image:url(po.gif)}
+
+.megascreen					{position: absolute; border: 0px; border-width: 5px 5px; padding: 10px; font: normal 10pt Calibri; z-index: 100; width: 100%; }
+.megascreen .columnLeft		{
+	float: left;
+	width: 70%;
+	margin-right: 5px;
+	border: 0px solid #000033;
+}
+.megascreen .columnRight	{float: right; width: 30%; margin-right: 5px; border: 1px solid #999999;}
+
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:99; }
+.hover_img a:hover span { display:block; }

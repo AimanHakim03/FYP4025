@@ -1,0 +1,53 @@
+.megamenu{
+position: absolute;
+display: none;
+left: 0;
+top: 0;
+background: #333333;
+border: 1px solid #333333;
+border-width: 5px 1px;
+padding: 10px;
+font: normal 10pt Cambria;
+z-index: 100;
+
+}
+
+.megamenu .column{
+float: left;
+width: 180px; /*width of each menu column*/
+margin-right: 5px;
+}
+
+.megamenu .column ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+.megamenu .column ul li{
+padding-bottom: 5px;
+}
+
+.megamenu .column h3{
+background: #E8FCF0;
+font: bold 10pt Cambria;
+color: #000000;
+margin: 0 0 5px 0;
+padding: 5px;
+}
+
+.megamenu .column ul li a{
+text-decoration: none;
+}
+
+.megamenu .column ul li a:hover{
+color: #FF0000;
+}
+
+.megamenu .column ul li a:link{
+color: #FFFFFF;
+}
+
+.megamenu .column ul li a:visited{
+color: #FFFFFF;
+}
